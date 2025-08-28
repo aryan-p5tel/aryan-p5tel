@@ -50,5 +50,6 @@ Currently building strong foundations in **data structures, algorithms, and full
 
 ## 📫 Connect With Me
 - GitHub: [github.com/aryan-p5tel](https://github.com/aryan-p5tel)  
-- Email:  fst.openacc@gmail.com
+- Email: [fst.openacc@gmail.com](mailto:fst.openacc@gmail.com)
+
 
