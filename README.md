@@ -10,6 +10,12 @@ Currently building strong foundations in **data structures, algorithms, and full
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-p5tel&layout=compact&theme=default&hide_border=true)
+
+---
+
 ## 🎯 What I’m Working On
 - Sharpening my **DSA** skills through projects and coding challenges.  
 - Building hands-on projects with **JavaScript, Python, and C++**.  
@@ -17,18 +23,18 @@ Currently building strong foundations in **data structures, algorithms, and full
 
 ---
 
-## 📚 What I’m Learning
-- **Web Development** (React, Node.js, Express, MongoDB).  
-- **Core CS Concepts** (Operating Systems, Computer Networks).  
-- **Git & GitHub best practices** for collaborative development.  
-
----
-
 ## ✅ What I’ve Learnt So Far
 - Strong foundations in **Python** and **C++**.  
 - Problem-solving with **algorithms and data structures**.  
 - Basics of **front-end development** (HTML, CSS, JavaScript).  
-- Collaboration using **Git/GitHub**.  
+- Collaboration using **Git/GitHub**.
+  
+---
+
+## 📚 What I’m Learning
+- **Web Development** (React, Node.js, Express, MongoDB).  
+- **Core CS Concepts** (Operating Systems, Computer Networks).  
+- **Git & GitHub best practices** for collaborative development.  
 
 ---
 
