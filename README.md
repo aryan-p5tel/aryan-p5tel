@@ -5,7 +5,7 @@
 ---
 
 ## 🚀 About Me
-I’m a motivated and forward-thinking learner passionate about **computer science, software engineering, and problem-solving**.  
+I’m a motivated and forward-thinking 16 yr old learner passionate about **computer science, software engineering, and problem-solving**.  
 Currently building strong foundations in **data structures, algorithms, and full-stack development**, while exploring areas like **AI/ML** and **cloud computing**.  
 
 ---
