@@ -12,7 +12,7 @@ Currently building strong foundations in **data structures, algorithms, and full
 
 ## 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-p5tel&layout=compact&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-p5tel&layout=compact&theme=radical)
 
 ---
 
