@@ -12,7 +12,7 @@ Currently building strong foundations in **data structures, algorithms, and full
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-p5tel&layout=compact&theme=github_dark)
+![My Skills](https://skillicons.dev/icons?i=python,js,html,css,react,nodejs,git,github)
 
 
 
