@@ -12,7 +12,8 @@ Currently building strong foundations in **data structures, algorithms, and full
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://vercel.app)](https://github.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aryan-p5tel&layout=compact&theme=github_dark)
+
 
 
 
